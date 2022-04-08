@@ -1,4 +1,4 @@
-# test-frontend
+# Tes Frontend Wahana Gumilang Group.
 Semoga sesuai dengan yang diharapkan.
 
 # Penggunaan
