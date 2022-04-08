@@ -1,5 +1,5 @@
 # test-frontend
-Test Frontend
+Semoga sesuai dengan yang diharapkan.
 
 # Penggunaan
 - [x] Silahkan buka web server (XAMPP, Laragon dll)
