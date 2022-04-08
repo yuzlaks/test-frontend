@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "priority": 0,
+            "name": "HEMATOLOGI",
+            "iconUrl": "https://cdn-icons-png.flaticon.com/512/6467/6467065.png",
+            "servicePrerequisites": []
+        },
+        {
+            "priority": 0,
+            "name": "UMUM",
+            "iconUrl": "https://cdn-icons-png.flaticon.com/512/4849/4849692.png",
+            "servicePrerequisites": [
+                "Pastikan kondisi tubuh dalam keadaan prima."
+            ]
+        },
+        {
+            "priority": 0,
+            "name": "KIMIA KLINIK",
+            "iconUrl": "https://cdn-icons-png.flaticon.com/512/782/782769.png",
+            "servicePrerequisites": []
+        },
+        {
+            "priority": 0,
+            "name": "IMUNOLOGI",
+            "iconUrl": "https://cdn-icons-png.flaticon.com/512/3643/3643948.png",
+            "servicePrerequisites": []
+        },
+        {
+            "priority": 0,
+            "name": "BIOMOLEKULER",
+            "iconUrl": "https://cdn-icons-png.flaticon.com/512/3335/3335985.png",
+            "servicePrerequisites": []
+        },
+        {
+            "priority": 0,
+            "name": "URINALISA",
+            "iconUrl": "https://cdn-icons.flaticon.com/png/512/4813/premium/4813825.png?token=exp=1649380019~hmac=5c1f3601392cd9cf115cba334bc72d69",
+            "servicePrerequisites": []
+        },
+        {
+            "priority": 1,
+            "name": "DARAH",
+            "iconUrl": "https://content.periksain.id/display-group/2a959fe0-7ef1-4cc4-b08c-b9930a1cdf41/230180.png",
+            "servicePrerequisites": [
+                "Pasien harus puasa minimal selama 10 jam sebelum pengambilan darah.",
+                "Selama puasa, pasien tidak diperbolehkan makan dan minum, kecuali air putih.",
+                "Hindari merokok, makan permen karet, minum kopi dan teh (tanpa gula), alkohol, addictive drugs.",
+                "Jangan melakukan aktivitas berat seperti berolahraga sebelum pengambilan darah."
+            ]
+        },
+        {
+            "priority": 0,
+            "name": "ANTIGEN",
+            "iconUrl": "https://cdn-icons.flaticon.com/png/512/5333/premium/5333374.png?token=exp=1649380051~hmac=b9914211b868124a8d96f716c6402e56",
+            "servicePrerequisites": [
+                "Pastikan Hidung Bersih.",
+                "Berkumur sebelum melakukan tes.",
+                "Tetap Patuhi Protokol Kesehatan."
+            ]
+        },
+        {
+            "priority": 0,
+            "name": "SWAB PCR",
+            "iconUrl": "https://content.periksain.id/display-group/3741f88e-8022-417e-85c8-26bfeff17f63/PCR2 (1).png",
+            "servicePrerequisites": [
+                "Pastikan Hidung Bersih.",
+                "Berkumur sebelum melakukan tes.",
+                "Tetap Patuhi Protokol Kesehatan."
+            ]
+        },
+        {
+            "priority": 1,
+            "name": "URIN",
+            "iconUrl": "https://content.periksain.id/display-group/c1fc0754-8a11-46fb-b308-8d17f502744b/kissclipart-urine-test-png-clipart-clinical-urine-tests-comput-defb38fcbc7d6ecf.png",
+            "servicePrerequisites": [
+                "Pasien wanita yang akan menjalani tes urine harus menginformasikan kepada dokter jika sedang menstruasi. ",
+                "Pasien tidak perlu berpuasa untuk menjalani tes urine.",
+                "Perbanyak minum air putih."
+            ]
+        }
+    ],
+    "meta": {}
+}
